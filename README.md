@@ -52,18 +52,4 @@ Compatible with all modern browsers including:
 - Safari
 - Edge
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/your-username/timer-app/issues).
-
-## Live Demo
-
-Check out the live demo: [Timer App](https://your-username.github.io/timer-app/)
-
----
-
-⭐ Star this repo if you found it helpful!
